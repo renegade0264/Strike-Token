@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "renegade": {
+      "main": "renegade.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
